@@ -1,5 +1,5 @@
 # noa-project
-Just a display of the public results for a start-up I worked at. The company was a hyper-local consumer service mobile and browser application for shopping and eating including blockchain technology.
+A display of the public mobile app and frontent results for a start-up I worked at. The company was a hyper-local consumer service mobile and browser application for shopping and eating including blockchain technology. My role was the backend engineer. The tech includes python, GraphQL, Microservices framework, GCP, Docker, Kubernetes, Substrate Framework, Confluent Kafka, and Stripe API.
 
 ## Preview
 
